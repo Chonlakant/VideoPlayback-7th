@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/root1/Downloads/VideoPlayback-5-5-9-master/app/libs/Vuforia.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f5b9729417d9e86d9bba6068e4a84f05ace53fd4">
+        <dex dex="/Users/root1/Downloads/VideoPlayback-5-5-9-master/app/build/intermediates/pre-dexed/debug/Vuforia-ec476cd596d02591e189580907571588e5ed81ff.jar" />
+    </item>
+
+</items>
